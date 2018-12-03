@@ -9,3 +9,15 @@ I probably won't finish this.
 ```
  ruby day1.rb
 ```
+
+## day2
+
+```
+ ruby day2.rb
+```
+
+## day3
+
+```
+ ruby day3.rb
+```
